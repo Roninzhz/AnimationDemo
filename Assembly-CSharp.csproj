@@ -60,6 +60,7 @@
      <Compile Include="Assets\Model\UnityChan\Scripts\ThirdPersonCamera.cs" />
      <Compile Include="Assets\Model\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />
      <Compile Include="Assets\Scripts\AniAPI.cs" />
+     <Compile Include="Assets\Scripts\AniController.cs" />
      <Compile Include="Assets\Scripts\AniEvent.cs" />
      <Compile Include="Assets\Scripts\Charactercontroller.cs" />
      <None Include="Assets\Model\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
